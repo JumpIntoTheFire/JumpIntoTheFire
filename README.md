@@ -28,4 +28,4 @@ Self-directed. Comfortable owning a problem end-to-end — spec, architecture, b
 ### Find me
 
 - LinkedIn: [jacktyson95](https://www.linkedin.com/in/jacktyson95/)
-- Email: crucibletraingsystem@gmail.com
+- Email: crucibletrainingsystem@gmail.com

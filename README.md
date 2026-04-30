@@ -4,9 +4,18 @@ Full-stack developer based in the UK. I build systems that run locally, own thei
 
 ### What I'm building
 
-- **DriveCoach** *(private)* — PWA for independent driving instructors. Bookings, SMS reminders, Stripe billing, public student booking with OTP + Turnstile. TypeScript, FastAPI, PostgreSQL, Docker.
-- **[Crucible Training Systems](https://github.com/JumpIntoTheFire/crucible-training-system)** — full-stack fitness coaching platform. 873-exercise library, custom workout builder, JWT auth. React 19, FastAPI, PostgreSQL, Docker.
-- **[L.I.S.A.](https://github.com/JumpIntoTheFire/L.I.S.A.-showcase)** — Local Intelligence System Architecture. Fully-local, containerised, multi-agent reasoning system. 88-node n8n workflow, 21 agents, approval-gated actions. Code private; architecture and decisions documented in the showcase repo.
+**AI systems**
+- **[L.I.S.A.](https://github.com/JumpIntoTheFire/L.I.S.A.-showcase)** *(code private)* — fully-local 21-agent reasoning system. 88-node n8n workflow, approval gates, plaintext agent memory, tool layer. Architecture documented in the showcase repo.
+- **MASTERMIND_COUNCIL** *(private)* — 10 historical figures (Feynman, Aurelius, da Vinci, Munger…) as local AI agents. Ask/reply/debate modes; personas as markdown; defensive output scrubbing. FastAPI + React + Ollama + SQLite.
+- **DREDD2** *(private)* — multi-agent terminal RPG with live LLM narration. Structured tag protocol, KV-cache warmup, 5000+ procedurally seeded cases. 3477-line single Python file by design.
+
+**Full-stack products**
+- **DriveCoach** *(private)* — SaaS PWA for driving instructors. Bookings, SMS reminders, Stripe billing, public student booking with OTP + Turnstile. FastAPI, PostgreSQL, React, Docker.
+- **[Crucible Training Systems](https://github.com/JumpIntoTheFire/crucible-training-system)** — fitness coaching platform. 873-exercise library, custom workout builder, JWT auth. React 19, FastAPI, PostgreSQL, Docker.
+
+**Tooling**
+- **AutoMarketer** *(private)* — GitHub commits → Ollama drafts → LinkedIn/X/Bluesky scheduler. 9 content archetypes, embedding dedup, brand voice manifest per product. FastAPI + React + Ollama.
+- **MUSTER** *(private)* — personal project control panel. One-click autonomous Claude sessions per project; live log streaming; git diff proof of work. FastAPI + React + TypeScript.
 
 ### Stack
 

@@ -4,9 +4,9 @@ Full-stack developer based in the UK. I build systems that run locally, own thei
 
 ### What I'm building
 
-- **[DriveCoach](https://github.com/JumpIntoTheFire/DriveCoach)** — PWA for independent driving instructors. Bookings, SMS reminders, Stripe billing. TypeScript, FastAPI, PostgreSQL, Docker.
+- **DriveCoach** *(private)* — PWA for independent driving instructors. Bookings, SMS reminders, Stripe billing, public student booking with OTP + Turnstile. TypeScript, FastAPI, PostgreSQL, Docker.
 - **[Crucible Training Systems](https://github.com/JumpIntoTheFire/crucible-training-system)** — full-stack fitness coaching platform. 873-exercise library, custom workout builder, JWT auth. React 19, FastAPI, PostgreSQL, Docker.
-- **L.I.S.A.** — Local Intelligence System Architecture. Fully-local, containerised, multi-agent reasoning system. 75-node n8n workflow, 22 agents, approval-gated actions. Code private; showcase repo coming soon.
+- **[L.I.S.A.](https://github.com/JumpIntoTheFire/L.I.S.A.-showcase)** — Local Intelligence System Architecture. Fully-local, containerised, multi-agent reasoning system. 88-node n8n workflow, 21 agents, approval-gated actions. Code private; architecture and decisions documented in the showcase repo.
 
 ### Stack
 
@@ -17,8 +17,8 @@ Full-stack developer based in the UK. I build systems that run locally, own thei
 Software dev + retained firefighter + personal trainer + boxing coach + sci-fi writer. Unusual mix, same throughline: long-horizon, systems-heavy work.
 
 - 🔥 On-call firefighter with Lancashire Fire and Rescue
-- 🥊 10+ years boxing; currently coaching at Kingscote ABC
-- 🏋️ Level 3 PT + Pre-Script continuing education
+- 🥊 11 years boxing; currently coaching at Kingscote ABC
+- 🏋️ Level 3 PT + Pre-Script courses (Jordan Shallow — completed)
 - 📚 Writing an 8-book sci-fi series
 
 ### How I work

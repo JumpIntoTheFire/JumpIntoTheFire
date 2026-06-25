@@ -1,40 +1,29 @@
-## Hi, I'm Jack 👋
+## Jack Tyson
 
-Full-stack developer based in the UK. I build systems that run locally, own their data, and work under pressure.
+Full-stack developer (UK). I take systems from spec to deployed software on my own — backend, frontend, and infrastructure. AI-native by default, validated against systems knowledge rather than trusted blindly.
 
-### What I'm building
+**Live — DriveCoach: https://drivecoach.uk**
+A booking and reminders SaaS for UK driving instructors: calendar bookings, automated reminders, Stripe billing, and a public student-booking page with OTP and captcha. Built and deployed solo — FastAPI, PostgreSQL, React, Docker, on a Hetzner VPS with TLS. Code private; the product is live.
 
-**AI systems**
-- **[L.I.S.A.](https://github.com/JumpIntoTheFire/L.I.S.A.-showcase)** *(code private)* — fully-local 21-agent reasoning system. 88-node n8n workflow, approval gates, plaintext agent memory, tool layer. Architecture documented in the showcase repo.
-- **[MASTERMIND_COUNCIL](https://github.com/JumpIntoTheFire/MASTERMIND_COUNCIL)** — 10 historical figures (Feynman, Aurelius, da Vinci, Munger…) as local AI agents. Ask/reply/debate modes; personas as markdown; defensive output scrubbing. FastAPI + React + Ollama + SQLite.
-- **DREDD2** *(private)* — multi-agent terminal RPG with live LLM narration. Structured tag protocol, KV-cache warmup, 5000+ procedurally seeded cases. 3477-line single Python file by design.
+### Selected work
 
-**Full-stack products**
-- **[DriveCoach](https://github.com/JumpIntoTheFire/DriveCoach)** — SaaS PWA for driving instructors. Bookings, SMS reminders, Stripe billing, public student booking with OTP + Turnstile. FastAPI, PostgreSQL, React, Docker.
-- **[Crucible Training Systems](https://github.com/JumpIntoTheFire/crucible-training-system)** — fitness coaching platform. 873-exercise library, custom workout builder, JWT auth. React 19, FastAPI, PostgreSQL, Docker.
+**Rachel** — agentic AI dashboard built on the Claude Code CLI. SSE streaming to a React frontend, a persistent cross-session memory layer, a multi-agent council, and a deterministic hook system that enforces workflow rules outside the model. The project where I learned that an LLM product lives or dies on its trust layer. *(code private; demo on request)*
 
-**Tooling**
-- **[AutoMarketer](https://github.com/JumpIntoTheFire/AutoMarketer)** — GitHub commits → Ollama drafts → LinkedIn/X/Bluesky scheduler. 9 content archetypes, embedding dedup, brand voice manifest per product. FastAPI + React + Ollama.
-- **[MUSTER](https://github.com/JumpIntoTheFire/MUSTER)** — personal project control panel. One-click autonomous Claude sessions per project; live log streaming; git diff proof of work. FastAPI + React + TypeScript.
+**[MASTERMIND_COUNCIL](https://github.com/JumpIntoTheFire/MASTERMIND_COUNCIL)** — ten historical figures as local AI agents, with ask / reply / debate modes and a documented fix for multi-agent mode-collapse. FastAPI, React, Ollama, SQLite. *(public — browsable code)*
+
+**MUSTER** — a project control panel that spawns and monitors autonomous Claude sessions per repo: one-click runs, live log streaming, and a git-diff proof-of-work view. FastAPI, React, TypeScript. *(code private)*
+
+**L.I.S.A.** — a fully-local 21-agent reasoning system: 88-node workflow, approval gates, and a tooling layer. *(code private)*
+
+**Crucible Training Systems** — fitness coaching platform: 873-exercise library, workout builder, JWT auth. React, FastAPI, PostgreSQL, Docker. *(code private)*
 
 ### Stack
-
-`Python` · `FastAPI` · `TypeScript` · `React` · `PostgreSQL` · `Docker` · `n8n` · `Ollama` · `SQLAlchemy (async)` · `Alembic`
+Python · FastAPI · TypeScript · React · PostgreSQL · Docker · Ollama · Claude Code
 
 ### Background
+Software developer, on-call firefighter (Lancashire Fire & Rescue), and boxing coach. One throughline: long-horizon, systems-heavy work, finished under pressure.
 
-Software dev + retained firefighter + personal trainer + boxing coach + sci-fi writer. Unusual mix, same throughline: long-horizon, systems-heavy work.
-
-- 🔥 On-call firefighter with Lancashire Fire and Rescue
-- 🥊 11 years boxing; currently coaching at Kingscote ABC
-- 🏋️ Level 3 PT + Pre-Script courses (Jordan Shallow — completed)
-- 📚 Writing an 8-book sci-fi series
-
-### How I work
-
-Self-directed. Comfortable owning a problem end-to-end — spec, architecture, build, ship. Use AI tooling (Claude Code, Copilot) as a force multiplier; every output validated against systems knowledge and best practice.
-
-### Find me
-
-- LinkedIn: [jacktyson95](https://www.linkedin.com/in/jacktyson95/)
+### Contact
+- DriveCoach (live): https://drivecoach.uk
+- LinkedIn: https://www.linkedin.com/in/jacktyson95/
 - Email: crucibletrainingsystem@gmail.com
